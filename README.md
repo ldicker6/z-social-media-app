@@ -6,7 +6,7 @@ The project demonstrates integration of authentication, API design, database man
 
 ---
 
-## ✨ Features
+## Features
 
 - **User Authentication** – Register and log in securely.  
 - **Post Creation** – Share short text posts in the global feed.  
@@ -16,7 +16,7 @@ The project demonstrates integration of authentication, API design, database man
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Frontend**
 - React + Vite  
@@ -31,7 +31,7 @@ The project demonstrates integration of authentication, API design, database man
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1. Clone the Repository
 ```bash
