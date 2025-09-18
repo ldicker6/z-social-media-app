@@ -1,6 +1,6 @@
 # Z – A Social Media App
 
-Z is a full-stack social media platform inspired by modern microblogging apps.  
+Z is a full-stack social media platform inspired by modern microblogging apps (like X).  
 Users can register, log in, create posts, and engage through comments in a shared feed.  
 The project demonstrates integration of authentication, API design, database management, and a responsive frontend.
 
@@ -74,6 +74,8 @@ Backend API: http://localhost:3000/api
 
 ### Screenshots (Examples)
 
+Sign in screen:
+![Feed Screenshot](./sign_in)
 
 
 ---
