@@ -102,7 +102,7 @@ This project was developed as part of a full-stack coursework project to practic
 
 --- 
 
-## 🔮 Future Improvements
+## Future Improvements
 
 - Add likes and follows to support richer social interaction
 - Implement user profiles with bios and avatars
