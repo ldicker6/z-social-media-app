@@ -74,6 +74,8 @@ Backend API: http://localhost:3000/api
 
 ### Screenshots (Examples)
 
+
+
 ---
 
 ## Development Notes
