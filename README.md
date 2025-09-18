@@ -77,6 +77,18 @@ Backend API: http://localhost:3000/api
 Sign in screen:
 ![Feed Screenshot](./sign_in.png)
 
+Create new account sreen:
+![Feed Screenshot](./create_account.png)
+
+Make first post screen:
+![Feed Screenshot](./making_first_post.png)
+
+Make an invalid post (e.g. empty post):
+![Feed Screenshot](./empty_post.png)
+
+
+
+
 
 ---
 
