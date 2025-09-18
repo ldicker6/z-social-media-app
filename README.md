@@ -75,7 +75,7 @@ Backend API: http://localhost:3000/api
 ### Screenshots (Examples)
 
 Sign in screen:
-![Feed Screenshot](./sign_in)
+![Feed Screenshot](./sign_in.png)
 
 
 ---
